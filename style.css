@@ -44,10 +44,6 @@ body{
   overflow:hidden;
 }
 
-.fullscreen-video-wrap video{
-  min-height:100%;
-  min-width:100%;
-}
 
 .header-overlay{
   height:100vh;
@@ -56,8 +52,7 @@ body{
   left:0;
   width:100vw;
   z-index:1;
-  background-image: url("https://upload.hicoria.com/files/W6MW8d8S.png");
-  opacity:0.85;
+  background-image: url("https://upload.hicoria.com/files/4MYZfPnf.jpg");
   background-size: cover;
 }
 
@@ -79,7 +74,7 @@ body{
 .section{
   padding:20px 0;
   color: fff;
-  background-color: #c2c4c6;
+  background-color: rgb(0, 0, 0);
 }
 
 .section-b{
@@ -95,10 +90,10 @@ body{
 }
 
 .welcometext{
-  color: #333;
+  color: rgb(121, 121, 121);
 }
 .wejkon{
-  color: rgb(34, 33, 33);
+  color: rgb(168, 168, 168);
   text-decoration: none;
   font-size: 89px;
   font-family: 'Roboto', sans-serif;
@@ -113,14 +108,20 @@ body{
   color: #5865F2 ;
 }
 .nieco{
-  color: #1e3336;
+  color: #1a4f57;
 }
 .text{
   color: rgb(73, 73, 73);
 }
 .section-s{
-  background:rgb(221, 209, 103);
+  background:rgb(252, 234, 77);
   color:rgb(0, 0, 0);
 }
 
-/* Navbar */
+.sponzor{
+  text-align: center;
+  color: #fca31f;
+}
+.sponz{
+  text-decoration: none;
+}
