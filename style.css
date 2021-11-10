@@ -52,7 +52,7 @@ body{
   left:0;
   width:100vw;
   z-index:1;
-  background-image: url("https://upload.hicoria.com/files/nffRDZzg.png");
+  background-image: url("https://upload.hicoria.com/files/JAE1dSkT.jpg");
   background-size: cover;
 }
 
@@ -90,7 +90,7 @@ body{
 }
 
 .welcometext{
-  color: rgb(121, 121, 121);
+  color: rgb(32, 34, 31);
 }
 .wejkon{
   color: rgb(168, 168, 168);
@@ -126,24 +126,3 @@ body{
   text-decoration: none;
 }
 
-.alert {
-  padding: 20px;
-  background-color: #04AA6D;
-  color: rgb(212, 255, 211);;
-  text-align: center;
-}
-
-/* The close button */
-.closebtn {
-  color: rgb(172, 172, 172);
-  font-weight: bold;
-  float: right;
-  font-size: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-/* When moving the mouse over the close button */
-.closebtn:hover {
-  color: black;
-}
