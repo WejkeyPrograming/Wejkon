@@ -1,13 +1,13 @@
 body{
-    background: rgb(240,240,240);
+    background: rgb(230, 230, 230);
     font-family: sans-serif;
     margin-top: 5%;
   }
   ul{
     width: 600px;
     margin: 0 auto;
-    background: rgb(255,255,255);
-    border: 1px solid rgb(220,220,220);
+    background: rgb(170, 170, 170);
+    border: 1px solid rgb(255, 238, 0);
     border-radius: 5px;
     list-style: none;
     padding: 0px;
@@ -16,7 +16,7 @@ body{
   }
   ul li {
     height: 50px;
-    border-bottom: 1px solid rgb(220,220,220);
+    border-bottom: 1px solid rgb(255, 255, 255);
     text-indent: 15px;
   }
   ul li:last-child{
@@ -38,25 +38,21 @@ body{
     border-radius: 3px;
     padding: 1px 2px;
   }
-  .blue {
-    color: #2791d9;
-    border-color: #2791d9;
+  .orange {
+    color: #ff6600;
+    border-color: #ff6600;
   }
   .green {
-    color: #2ecc71;
-    border-color: #2ecc71;
+    color: #15ff00;
+    border-color: #15ff00;
   }
   .yellow {
-    color: #f1c40f;
-    border-color: #f1c40f;
-  }
-  .orange {
-    color: #e67e22;
-    border-color: #e67e22;
+    color: #ffee00;
+    border-color: #ffee00;
   }
   .red{
-    color: #e74c3c;
-    border-color: #e74c3c;
+    color: #ff0000;
+    border-color: #ff0000;
   }
   
 
