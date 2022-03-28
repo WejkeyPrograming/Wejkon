@@ -1,0 +1,66 @@
+body{
+    background: rgb(0, 0, 0);
+    font-family: sans-serif;
+    margin-top: 5%;
+  }
+  ul{
+    width: 600px;
+    margin: 0 auto;
+    background: rgb(170, 170, 170);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 5px;
+    list-style: none;
+    padding: 0px;
+    line-height: 50px;
+    cursor: default;
+  }
+  ul li {
+    height: 50px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    text-indent: 15px;
+  }
+  ul li:last-child{
+    border: none;
+  }
+  .status {
+    display: inline-block;
+    float: right;
+    height: 1em;
+    line-height: 1em;
+    margin: 17px 15px;
+    text-indent: 0;
+  
+    font-family:  'Monaco','Consolas', 'Courier', monospace;
+    font-weight: bold;
+    font-size: 0.750em;
+    text-transform: uppercase;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 1px 2px;
+  }
+  .orange {
+    color: #ff6600;
+    border-color: #ff6600;
+  }
+  .green {
+    color: #00a300;
+    border-color: #00a300;
+  }
+  .yellow {
+    color: #ffee00;
+    border-color: #ffee00;
+  }
+  .red{
+    color: #ff0000;
+    border-color: #ff0000;
+  }
+  
+
+  .statustext{
+    text-align: center;
+    color: beige;
+  }
+  .statuspodtext{
+    text-align: center;
+    color: beige;
+  }
