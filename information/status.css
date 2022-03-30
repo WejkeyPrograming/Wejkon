@@ -1,5 +1,5 @@
 body{
-    background: rgb(0, 0, 0);
+    background: rgb(194, 194, 194);
     font-family: sans-serif;
     margin-top: 5%;
   }
@@ -7,7 +7,7 @@ body{
     width: 600px;
     margin: 0 auto;
     background: rgb(170, 170, 170);
-    border: 1px solid rgb(255, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
     border-radius: 5px;
     list-style: none;
     padding: 0px;
