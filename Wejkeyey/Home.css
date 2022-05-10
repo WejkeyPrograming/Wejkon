@@ -1,0 +1,147 @@
+.u-section-1 .u-image-1 {
+  min-height: 670px;
+  background-image: url("images/4e80f678e20c79ff30d1430513803ca0cbde6a92a7429ac22b22f3eebf1da8020f72eaf1a327425c3922367f02f729ce5a9a4963a6f5ca7c11d3ba_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-countdown-1 {
+  margin: 60px auto;
+  padding: 172px 192px;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 552px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 423px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 317px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 200px;
+  }
+}
