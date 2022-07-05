@@ -216,6 +216,7 @@
   font-weight: 400;
   font-size: 1.25rem;
   margin: 0 -30px;
+  padding: 0 30px
 }
 
 .u-section-2 .u-shape-2 {
@@ -330,7 +331,7 @@
 
 .u-section-3 .u-text-2 {
   font-weight: 700;
-  margin: 20px 58px 0 41px;
+  margin: 20px 0px 0 50px;
 }
 
 .u-section-3 .u-text-3 {
